@@ -179,7 +179,7 @@ cython_debug/
 poetry.toml
 
 ### Added by myself ###
-audio/
+dsl_data/
 *.pdf
 *.csv
 
