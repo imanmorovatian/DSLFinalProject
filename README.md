@@ -1,4 +1,4 @@
-# Data Science Lab: Process and Methods - Final Project
+# Intention Detection Using SVM 
 
 This repository contains the final project of the Data Science Lab course at Politecnico di Torino, in January 2023. In this project, we work on an intention detection problem. Intent detection is a crucial task in the field of natural language processing (NLP) and speech recognition. It involves identifying the underlying intention or purpose of a spoken or written statement. In the context of audio intent detection, the system must be able to accurately interpret the user’s spoken words and determine their intended meaning. The dataset consists of a collection of audio files in a WAV format. Several attributes characterize each record. The following is a short description of each of them.
 
